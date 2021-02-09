@@ -10,6 +10,8 @@ namespace Exercise2
     {
         static void Main(string[] args)
         {
+
+            //test tambahin source code untuk commit di github
           
             Console.WriteLine("Masukan angka:");
             int x = Convert.ToInt32(Console.ReadLine());
